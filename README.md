@@ -4,6 +4,10 @@ A synthetic dynamic benchmark comparing grid-following (GFL), droop-controlled g
 
 **Status:** educational portfolio project. All microgrid ratings, network equivalents, event timings, and controller parameters are synthetic. It is not hardware-in-the-loop validation, grid-code compliance evidence, or a real microgrid design.
 
+## Repository checks
+
+GitHub Actions reproduces the saved study and runs the test suite on Python 3.11 and 3.12 for every pull request and push to `main`.
+
 ## What it shows
 
 - GFL needs an external voltage/frequency reference and cannot sustain the island alone.

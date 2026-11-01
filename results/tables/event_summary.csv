@@ -1,0 +1,4 @@
+case,status,frequency_nadir_hz,voltage_nadir_pu,minimum_served_fraction,current_limit_seconds,unserved_energy_pu_s
+grid_following,completed,0.0,0.0,0.0,0.0,12.98
+gfm_droop,completed,49.314,0.963,0.865,13.0,0.91
+gfm_vsm,completed,49.87,0.963,0.865,13.0,0.91
